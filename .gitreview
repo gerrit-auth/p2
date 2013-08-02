@@ -1,4 +1,4 @@
 [gerrit]
-host=10.110.0.78
+host=cab0506.sdn1.ams1.spil
 port=29418
 project=p2
