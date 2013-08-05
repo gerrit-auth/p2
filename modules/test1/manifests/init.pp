@@ -1,5 +1,5 @@
 # Used for gerrit testing
-class test{
+class test1{
   notice{'Hallo!':}
   notice{'World!':}
 }
