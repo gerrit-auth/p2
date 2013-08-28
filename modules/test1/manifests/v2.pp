@@ -5,4 +5,5 @@ class test{
   notice{'Hallo  World2':}
   notice{'Hallo  World3':}
   notice{'Last':}
+  notice{'Lastz':}
 }
