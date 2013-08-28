@@ -3,6 +3,6 @@
 class test{
   notice{'Hallo  Worldo':}
   notice{'Hallo  World2':}
+  notice{'Hallo  World3':}
   notice{'Last':}
-
 }
