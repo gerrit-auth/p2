@@ -5,4 +5,6 @@ class v3{
   notice{'Blya!':}
   notice{'Blya!23':}
   notice{'Blya!1':}
+  notice{'Something':}
+
 }
