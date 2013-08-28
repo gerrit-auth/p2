@@ -3,4 +3,5 @@
 class v3{
   notice{'Hallo  ':}
   notice{'Blya!':}
+  notice{'Blya!23':}
 }
