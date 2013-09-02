@@ -3,4 +3,5 @@ class test2{
   notice{'Hallo bzzz!!!!':}
   notice{'World2 asdsadas!!!':}
   notice{'World2 asdsadas!!!':}
+  notice{'World3 !!!':}
 }
